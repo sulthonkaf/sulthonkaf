@@ -1,3 +1,4 @@
+<img src="[https://github.com/sulthonkaf/wallpaper/blob/main/light-ring.jpg]" alt="Hero image">
 Greetings!
 I'm a passionate professional at the intersection of IT expertise, psychological insights, a love for reading, and a fervor for data science. With a solid foundation in Information Technology, I thrive in the dynamic space where innovation seamlessly integrates with functionality. My journey is powered by an insatiable curiosity that compels me to decode the intricacies of this evolving domain.
 
@@ -9,7 +10,6 @@ My Unique Approach:
 Motto:
 "Cultivating a profound fusion of IT Expertise, Psychological Insights, Passion for Reading, and Devotion to Data Science, One Page at a Time."
 
-<img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/hero.svg" alt="Hero image">
 Current Endeavors:
 👨🏻‍💻 Working as a Software Engineer at Your Company
 ☀️ Maintaining Your Open Source Project (Contributions are welcome!)
