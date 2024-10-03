@@ -1,20 +1,49 @@
-<img src="https://github.com/sulthonkaf/wallpaper/blob/main/light-ring.jpg" alt="Hero image">
-Greetings!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-I'm a passionate professional at the intersection of IT expertise, psychological insights, a love for reading, and a fervor for data science. With a solid foundation in Information Technology, I thrive in the dynamic space where innovation seamlessly integrates with functionality. My journey is powered by an insatiable curiosity that compels me to decode the intricacies of this evolving domain.
+###
 
-My Unique Approach:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-💻 My IT expertise fuels my ability to develop innovative solutions that are both technically sound and user-centric.
+###
 
-🧠 My dedication to Psychology helps me design solutions that resonate on both cognitive and emotional levels, ensuring meaningful user experiences.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-📚 My love for reading expands my thinking and creative problem-solving, helping me approach challenges with fresh, innovative perspectives.
+###
 
-📊 With a passion for Data Science, I rely on data-driven insights to fuel innovation and strategic growth.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-Motto:
-"Cultivating a profound fusion of IT Expertise, Psychological Insights, Passion for Reading, and Devotion to Data Science, One Page at a Time."
+###
 
-</details>
-<hr> <p align="center"> <i>Let’s connect! I’m always open for a chat.</i> </p> <p align="center"> <a href="https://twitter.com/your-username" alt="Twitter"> <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/twitter.svg"> </a> <a href="https://www.linkedin.com/in/your-linkedin/" alt="LinkedIn"> <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/linkedin.svg"> </a> <a href="mailto:your-email@example.com" alt="Contact me"> <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/mail.svg"> </a> <a href="https://your-website.com" alt="My site"> <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/external-link.svg"> </a> </p> <p align="center"> <a href="https://visitor-badge.glitch.me/"> <img align="center" src="https://page-views.glitch.me/badge?page_id=your-username.your-username"> </a> </p> <img src="https://raw.githubusercontent.com/your-username/your-username/main/assets/bottom.svg" alt="bottom">
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
