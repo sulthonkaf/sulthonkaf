@@ -1,4 +1,4 @@
-<body style="background-color: #FFA500;">
+<body style="background-color: ##f2f0f5;">
 <div align="center">
   <img  src="https://github.com/sulthonkaf/wallpaper/blob/2781ea3cfd487372088cb7ce2c6b4098cca442af/light-ring.jpg"  />
 </div>
