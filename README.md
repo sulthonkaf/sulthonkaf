@@ -54,7 +54,7 @@
   <img width="25" />
   <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
   <img width="25" />
-  <img src=" https://github.com/sulthonkaf/devicon/blob/master/icons/figma/figma-original.svg" height="50" alt="Figma"  />
+  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/figma/figma-original.svg" height="50" alt="Figma"  />
  
 </div>
 
