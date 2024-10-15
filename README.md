@@ -13,8 +13,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sulthonkaf.sulthonkaf&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sulthonkaf.sulthonkaf&left_color=green&right_color=red"  />
 </div>
+
 
 ###
 
