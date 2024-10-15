@@ -11,26 +11,21 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
 
+<h1 align="center">Hello there 👋</h1>
+<h2 align="center">Machine Learning enthusiast, passionate about Artificial Intelligence and Software Development.</h2>
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sulthonkaf.sulthonkaf&left_color=green&right_color=red" />
 </div>
-## 📊 Github Stats
+📊 Github Stats
 <div align="center">
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sulthonkaf&theme=react&hide_border=false)
   <br/> 
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulthonkaf&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulthonkaf&show_icons=true&theme=radical)
 
 </div>
-
-###
-
-<h1 align="center">Hello there 👋</h1>
-<h2 align="center">Machine Learning enthusiast, passionate about Artificial Intelligence and Software Development.</h2>
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
