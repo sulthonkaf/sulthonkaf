@@ -23,7 +23,8 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sulthonkaf&theme=react&hide_border=false)
   <br/> 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulthonkaf&show_icons=true&theme=radical)
+<h3 align="left">🔥   My Stats :</h3>
+  ![](https://github-readme-stats.vercel.app/api?username=sulthonkaf&show_icons=true&theme=radical)
 
 </div>
 
@@ -61,13 +62,5 @@
   <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/figma/figma-original.svg" height="50" alt="Figma" />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=sulthonkaf&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></img>
-</div>
-
-###
 </body>
