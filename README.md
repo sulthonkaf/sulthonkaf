@@ -36,23 +36,26 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwinds logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <img width="25" />
+  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" height="50" alt="laravel logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50" alt="jupyter logo"  />
+  <img width="25" />
+  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/django/django-plain-wordmark.svg" height="50" alt="django logo"  />
+  <img width="25" />
+  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwinds logo"  />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs logo"  />
-  <img width="12" />
+  <img width="25" />
   <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
+  <img width="25" />
+  <img src=" https://github.com/sulthonkaf/devicon/blob/master/icons/figma/figma-original.svg" height="50" alt="Figma"  />
+ 
 </div>
 
 
