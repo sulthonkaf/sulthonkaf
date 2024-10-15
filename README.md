@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sulthonkaf&theme=whatsapp-light2&hide_border=true" alt="GitHub Streak" />
+    <a src="https://streak-stats.demolab.com?user=sulthonkaf&theme=humoris&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ###
