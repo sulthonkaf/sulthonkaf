@@ -13,12 +13,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sulthonkaf.sulthonkaf&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Sulthon Kaffaah Al Farizzi from Indonesia.<br><br>- 🔭 I’m working at Overlogic, where I merge IT expertise with psychological insights to create innovative tech solutions.<br>- 📚  I'm currently learning advanced data science techniques to deepen my understanding of data-driven decision-making and full-stack development to enhance my skills.<br>- ⚡ In my free time, I enjoy reading literature and hiking, which inspires my creativity and problem-solving skills.</p>
 
 ###
 
