@@ -20,7 +20,7 @@
 ###
 
 <h1 align="center">Hello there 👋</h1>
-
+<h2 align="center">I'm a Machine Learning enthusiast, passionate about Artificial Intelligence and Software Development.</h2>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
