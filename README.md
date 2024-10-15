@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="reactjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="nextjs logo"  />
+  <img src="https://github.com/sulthonkaf/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
 </div>
 ###
 
