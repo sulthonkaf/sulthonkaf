@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/sulthonkaf/wallpaper/blob/2781ea3cfd487372088cb7ce2c6b4098cca442af/light-ring.jpg"  />
+  <img  src="https://github.com/sulthonkaf/wallpaper/blob/2781ea3cfd487372088cb7ce2c6b4098cca442af/light-ring.jpg"  />
 </div>
 
 ###
