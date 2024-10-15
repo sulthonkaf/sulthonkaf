@@ -22,8 +22,6 @@
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=sulthonkaf&theme=react&hide_border=false)
   <br/> 
-  
-<h3 align="left">🔥   My Stats :</h3>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sulthonkaf&show_icons=true&theme=radical)
 
 </div>
