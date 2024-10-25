@@ -3,7 +3,6 @@
   <img src="https://github.com/sulthonkaf/wallpaper/blob/2781ea3cfd487372088cb7ce2c6b4098cca442af/light-ring.jpg" />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sulthonkaf" target="_blank">
@@ -35,15 +34,12 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
 <p align="left">I'm Sulthon Kaffaah Al Farizzi from Indonesia.<br><br>- 🔭 I’m working at Overlogic, where I merge IT expertise with psychological insights to create innovative tech solutions.<br>- 📚  I'm currently learning advanced data science techniques to deepen my understanding of data-driven decision-making and full-stack development to enhance my skills.<br>- ⚡ In my free time, I enjoy reading literature and hiking, which inspires my creativity and problem-solving skills.</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
