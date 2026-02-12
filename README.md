@@ -35,7 +35,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<p align="left">I'm Sulthon Kaffaah Al Farizzi from Indonesia.<br><br>- 🔭 I’m member at Overlogic, where I merge IT expertise with psychological insights to create innovative tech solutions.<br>- 📚  I'm currently learning advanced data science techniques to deepen my understanding of data-driven decision-making and full-stack development to enhance my skills.<br>- ⚡ In my free time, I enjoy reading literature, travelling and hiking, which inspires my creativity and problem-solving skills.</p>
+<p align="left">I'm Sulthon Kaffaah Al Farizzi from Indonesia.<br><br>- 🔭 I’m CEO at Overlogic, where I merge IT expertise with psychological insights to create innovative tech solutions.<br>- 📚  I'm currently learning advanced data science techniques to deepen my understanding of data-driven decision-making and full-stack development to enhance my skills.<br>- ⚡ In my free time, I enjoy reading literature, travelling and hiking, which inspires my creativity and problem-solving skills.</p>
 
 
 <h3 align="left">🛠Familiar with language and tools</h3>
