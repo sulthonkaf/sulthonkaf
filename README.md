@@ -17,7 +17,7 @@
   </a>
 
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Twitter / X" />
+    <img src="https://img.shields.io/static/v1?message=Twitter/X&logo=x&label=&color=111111&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Twitter / X" />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=sulthonkaf&style=for-the-badge&color=0E9F6E" height="28" alt="Profile Views" />
@@ -29,12 +29,13 @@
 <h1 align="center">Hi, I'm Sulthon Kaffaah Al Farizzi 👋</h1>
 
 <h3 align="center">
-  CEO of Overlogic · CTO at Posturely · AI & Software Engineering Enthusiast
+  CEO of Overlogic · CTO at Posturely, MOMSYNC, and Nevron
 </h3>
 
 <p align="center">
-  Building intelligent, scalable, and human-centered technology products through the intersection of
-  <b>Artificial Intelligence</b>, <b>Software Engineering</b>, <b>Product Strategy</b>, and <b>Leadership</b>.
+  Technology builder and innovation-driven strategist with strong interests in
+  <b>Artificial Intelligence</b>, <b>Software Engineering</b>,
+  <b>Business</b>, <b>Economics</b>, <b>Public Systems</b>, and <b>Social Impact</b>.
 </p>
 
 <br />
@@ -43,13 +44,13 @@
 
 ## 🧭 Executive Summary
 
-I am **Sulthon Kaffaah Al Farizzi**, a technology leader from Indonesia with a strong interest in building impactful digital products, intelligent systems, and scalable software platforms.
+I am **Sulthon Kaffaah Al Farizzi**, a technology leader from Indonesia with a strong passion for innovation, software engineering, artificial intelligence, business, economics, public systems, and impact-driven leadership.
 
-Currently, I serve as the **CEO of Overlogic**, where I lead technology-driven innovation by combining software engineering, artificial intelligence, business strategy, and human-centered problem solving.
+Currently, I serve as the **CEO of Overlogic**, where I lead technology-driven innovation by combining software engineering, artificial intelligence, product strategy, business thinking, and human-centered problem solving.
 
-I also serve as the **CTO at Posturely**, focusing on the development of technology solutions that support posture awareness, digital health innovation, and intelligent user-centered systems.
+I also serve as the **CTO at Posturely, MOMSYNC, and Nevron**, focusing on product architecture, technical direction, digital health innovation, intelligent systems, and scalable software development.
 
-My work is driven by a mission to create technology that is not only functional, but also meaningful, scalable, ethical, and beneficial for society.
+My work is driven by a long-term mission to build meaningful technology that is not only functional, but also strategic, ethical, scalable, and beneficial for society.
 
 ---
 
@@ -70,6 +71,20 @@ My work is driven by a mission to create technology that is not only functional,
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤰 CTO at MOMSYNC</h3>
+      <p>
+        Leading the technical vision of a maternal health technology platform that integrates wearable monitoring, AI-assisted analytics, health recommendations, and digital care support.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚡ CTO of Nevron</h3>
+      <p>
+        Building and directing technology systems with a focus on innovation, scalable architecture, product execution, and future-ready digital transformation.
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -77,13 +92,15 @@ My work is driven by a mission to create technology that is not only functional,
 ## 💡 What I Focus On
 
 - Artificial Intelligence and Machine Learning  
-- Full-Stack Web Development  
+- Full-Stack Software Engineering  
 - Software Architecture and System Design  
 - Digital Health Technology  
 - Product Strategy and Innovation  
+- Business and Economic Strategy  
+- Public Systems and Social Impact  
 - Data-Driven Decision Making  
 - Human-Centered Technology  
-- Leadership, Business, and Impact-Oriented Execution  
+- Scalable Digital Transformation  
 
 ---
 
@@ -92,6 +109,14 @@ My work is driven by a mission to create technology that is not only functional,
 ```txt
 Name        : Sulthon Kaffaah Al Farizzi
 Location    : Indonesia
-Role        : CEO of Overlogic · CTO at Posturely
-Focus       : AI, Software Engineering, Product Strategy, Digital Innovation
-Mission     : Building meaningful technology that creates real impact
+
+Roles       : CEO of Overlogic
+              CTO at Posturely
+              CTO at MOMSYNC
+              CTO of Nevron
+
+Focus       : AI, Software Engineering, Innovation,
+              Business, Economics, Public Systems, and Social Impact
+
+Mission     : Building meaningful technology, strategic systems,
+              and long-term impact through responsible innovation
