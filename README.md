@@ -6,6 +6,20 @@
 
 <br />
 
+<h1 align="center">Hi 👋, I'm Sulthon Kaffaah Al Farizzi</h1>
+
+<h3 align="center">
+  CEO of Overlogic · CTO at Posturely, MOMSYNC, and Nevron
+</h3>
+
+<p align="center">
+  A technology builder and innovation-driven strategist with strong interests in
+  <b>Artificial Intelligence</b>, <b>Software Engineering</b>, <b>Business</b>,
+  <b>Economics</b>, <b>Public Systems</b>, and <b>Social Impact</b>.
+</p>
+
+<br />
+
 <div align="center">
 
   <a href="https://www.linkedin.com/in/sulthonkaf" target="_blank">
@@ -26,19 +40,11 @@
 
 <br />
 
-<h1 align="center">Hi, I'm Sulthon Kaffaah Al Farizzi 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  CEO of Overlogic · CTO at Posturely, MOMSYNC, and Nevron
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=41B883&center=true&vCenter=true&width=900&lines=Building+Meaningful+Technology;AI+%7C+Software+Engineering+%7C+Business;Innovation+Driven+%E2%80%A2+Impact+Oriented;Welcome+to+my+digital+world)](https://git.io/typing-svg)
 
-<p align="center">
-  Technology builder and innovation-driven strategist with strong interests in
-  <b>Artificial Intelligence</b>, <b>Software Engineering</b>,
-  <b>Business</b>, <b>Economics</b>, <b>Public Systems</b>, and <b>Social Impact</b>.
-</p>
-
-<br />
+</div>
 
 ---
 
@@ -89,25 +95,11 @@ My work is driven by a long-term mission to build meaningful technology that is 
 
 ---
 
-## 💡 What I Focus On
-
-- Artificial Intelligence and Machine Learning  
-- Full-Stack Software Engineering  
-- Software Architecture and System Design  
-- Digital Health Technology  
-- Product Strategy and Innovation  
-- Business and Economic Strategy  
-- Public Systems and Social Impact  
-- Data-Driven Decision Making  
-- Human-Centered Technology  
-- Scalable Digital Transformation  
-
----
-
 ## 👨‍💻 About Me
 
 ```txt
 Name        : Sulthon Kaffaah Al Farizzi
+Username    : sulthonkaf
 Location    : Indonesia
 
 Roles       : CEO of Overlogic
