@@ -269,11 +269,11 @@ Beyond technology, I enjoy reading, traveling, hiking, and exploring ideas that 
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulthonkaf&radius=16&theme=react-dark&area=true&order=5&custom_title=Sulthon%20KAF%20Contribution%20Graph&hide_border=true" width="100%" alt="Contribution Graph" />
-
-</div>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sulthonkaf&theme=react-dark&hide_border=true&area=true&radius=16&custom_title=Sulthon%20KAF%20Contribution%20Graph"
+  width="100%"
+  alt="Sulthon KAF Contribution Graph"
+/>
 
 ---
 
