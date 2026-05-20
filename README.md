@@ -65,13 +65,13 @@ My work is driven by a long-term mission to build meaningful technology that is 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏢 CEO of Overlogic</h3>
+      <h3>CEO of Overlogic</h3>
       <p>
         Leading a technology company focused on building innovative digital solutions, intelligent systems, and strategic IT products for real-world business and social impact.
       </p>
     </td>
     <td width="50%">
-      <h3>🧠 CTO at Posturely</h3>
+      <h3>CTO at Posturely</h3>
       <p>
         Driving product architecture, technical direction, and digital health innovation through posture-focused technology, intelligent systems, and scalable software development.
       </p>
@@ -79,13 +79,13 @@ My work is driven by a long-term mission to build meaningful technology that is 
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤰 CTO at MOMSYNC</h3>
+      <h3>CTO at MOMSYNC</h3>
       <p>
         Leading the technical vision of a maternal health technology platform that integrates wearable monitoring, AI-assisted analytics, health recommendations, and digital care support.
       </p>
     </td>
     <td width="50%">
-      <h3>⚡ CTO of Nevron</h3>
+      <h3>CTO of Nevron</h3>
       <p>
         Building and directing technology systems with a focus on innovation, scalable architecture, product execution, and future-ready digital transformation.
       </p>
