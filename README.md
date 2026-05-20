@@ -246,12 +246,13 @@ Beyond technology, I enjoy reading, traveling, hiking, and exploring ideas that 
 </div>
 
 <br />
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=sulthonkaf&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=8" width="100%" alt="Sulthon KAF GitHub Streak" />
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sulthonkaf&theme=algolia&hide_border=false&border_radius=8"
+    width="100%"
+    alt="Sulthon KAF GitHub Streak"
+  />
+</p>
 
 ---
 
